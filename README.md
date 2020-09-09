@@ -16,7 +16,7 @@ The main features that are present in this project:
 
 ## Demo
 
-![Farmers Market Finder - Animated gif demo](demo/demo.gif)
+![Farmers Market Finder - Animated gif demo](Demo/demo.gif)
 
 ## Run Project Locally
 
